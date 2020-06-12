@@ -1,0 +1,5 @@
+banner
+produtos em destaque
+produtos tempo limitado
+lista de produtos
+lista de pedidos
